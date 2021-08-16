@@ -23,7 +23,7 @@ makeTransaction({ id: 70, amount: 150 })
   .then(logSuccess)
   .catch(logError);
 
-makeTransaction({ id: 71, amount: 230 })
+makeTransaction({ id: 71, amount: 231 })
   .then(logSuccess)
   .catch(logError);
 
